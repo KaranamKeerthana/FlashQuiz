@@ -1,8 +1,7 @@
 # FlashQuiz 
 
 - This is the server part of the FlashQuiz app developed in Django
-- This has the ui part which was developed in Reactjs.
-    - https://github.com/KaranamKeerthana/FlashQuizUI
+- This has the ui part which was developed in Reactjs. Please check FlashQuizUI in the same profile.
 
 ### What is FlashQuiz
 - FlashQuiz is for learning vocabulary just like flash cards.
